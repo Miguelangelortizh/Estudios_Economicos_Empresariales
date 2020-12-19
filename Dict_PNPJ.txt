@@ -1,0 +1,7 @@
+dict_PNPJ = {
+    'NOM_ENTE_JURIDICO': ["Persona Natural                                                                           ",	"Sociedad por Acciones Simplificada                                                        ",	"Sociedad Limitada                                                                         ",	"Sociedad en Comandita Simple                                                              ",	"Empresa Unipersonal                                                                       ",	"Sociedad Anónima                                                                          ",	"Sociedad en Comandita por Acciones                                                        ",	"Sociedades Extranjeras                                                                    ",	"Empresa Asociativa de Trabajo                                                             ",	"Sociedades Civiles                                                                        ",	"Sociedad Colectiva                                                                        ",	"Fondos de Pensiones                                                                       ",
+],
+
+        'PN_PJ_CORR': [	"Persona Natural",	"Persona Juridica",	"Persona Juridica",	"Persona Juridica",	"Persona Juridica",	"Persona Juridica",	"Persona Juridica",	"Persona Juridica",	"Persona Juridica",	"Persona Juridica",	"Persona Juridica",	"Persona Juridica",
+],
+        }
